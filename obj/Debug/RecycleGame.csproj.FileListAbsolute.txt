@@ -1,0 +1,10 @@
+C:\Users\scank\Desktop\RecycleGame\RecycleGame\bin\Debug\RecycleGame.exe.config
+C:\Users\scank\Desktop\RecycleGame\RecycleGame\bin\Debug\RecycleGame.exe
+C:\Users\scank\Desktop\RecycleGame\RecycleGame\bin\Debug\RecycleGame.pdb
+C:\Users\scank\Desktop\RecycleGame\RecycleGame\obj\Debug\RecycleGame.Form1.resources
+C:\Users\scank\Desktop\RecycleGame\RecycleGame\obj\Debug\RecycleGame.Properties.Resources.resources
+C:\Users\scank\Desktop\RecycleGame\RecycleGame\obj\Debug\RecycleGame.csproj.GenerateResource.cache
+C:\Users\scank\Desktop\RecycleGame\RecycleGame\obj\Debug\RecycleGame.csproj.CoreCompileInputs.cache
+C:\Users\scank\Desktop\RecycleGame\RecycleGame\obj\Debug\RecycleGame.exe
+C:\Users\scank\Desktop\RecycleGame\RecycleGame\obj\Debug\RecycleGame.pdb
+C:\Users\scank\Desktop\RecycleGame\RecycleGame\obj\Debug\RecycleGame.csprojAssemblyReference.cache
